@@ -34,4 +34,4 @@ _Do you like the sea? Yeah!... Nice to meet you, Ivosea_
 
 <br>
 
-<img href="https://raw.githubusercontent.com/ivomarsan/ivomarsan/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/ivomarsan/ivomarsan/output/snake.svg" alt="Snake animation" />
