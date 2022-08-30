@@ -23,7 +23,13 @@ _Do you like the sea? Yeah!... Nice to meet you, Ivosea_
 
 <br>
 
+<img align="right" height="174" src="https://c.tenor.com/EadWGJ93A_kAAAAj/lewis-hamilton-sticker-lewis-hamilton-stickers.gif"  />
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&username=ivomarsan" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=ivomarsan" height="150" alt="languages graph"  />
 </div>
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/ivomarsan/ivomarsan/blob/output/snake.svg" alt="Snake animation" />
