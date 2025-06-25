@@ -1,12 +1,5 @@
 ### Welcome to my cave 👋
 
-I'm Ivomar. Frontend by day, gamer by night. Nowadays liking Vue 3 and _Assassin's Creed Valhalla_.
-
-- 🔭 I'm currently working on Talentify and Sabido
-- 🌱 I'm currently learning Modelling 3D and Electronic things for my hobbies
-
-_Do you like the sea? Yeah!... Nice to meet you, Ivosea_
-
 <br>
 
 <div align="center">
